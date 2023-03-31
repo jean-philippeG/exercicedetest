@@ -1,8 +1,14 @@
+.title{
+    text-align: center;
+    color: #595b9d;
+    border: 5px solid #2d2e6e;
+    width: 800px;
+    margin: 50px;
+}
+
 .bird{
     border: 5px solid #2d2e6e;
     width: 800px;
     height: 450px;
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: 50px;
 }
